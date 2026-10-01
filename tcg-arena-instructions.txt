@@ -1,0 +1,22 @@
+Instrukcja krok po kroku: Jak wgrać grę na tcg-arena.fr
+
+1. Przygotuj repozytorium GitHub:
+   - Utwórz nowe, publiczne repozytorium na swoim koncie GitHub (np. nazwij je `moja-nowa-gra-tcg`).
+   - Wrzuć do tego repozytorium dwa nowo wygenerowane pliki: `gamefile.json` oraz `cards.json`.
+
+2. Publikacja plików na GitHub Pages:
+   - Aby TCG Arena miała bezpośredni dostęp do Twoich plików JSON, włącz dla tego repozytorium GitHub Pages (Settings -> Pages -> wybierz gałąź `main` lub `master`).
+   - Alternatywnie możesz używać surowych linków (Raw URLs), takich jak np. `https://raw.githubusercontent.com/twoja-nazwa/moja-nowa-gra-tcg/main/cards.json`.
+
+3. Konfiguracja w pliku `gamefile.json`:
+   - Otwórz plik `gamefile.json` w swoim repozytorium.
+   - Odszukaj klucz `"dataUrl"` znajdujący się wewnątrz sekcji `"cards"`.
+   - Zmień jego wartość ze zwykłego `"cards.json"` na docelowy, surowy adres URL (Raw URL) prowadzący do pliku `cards.json` w Twoim repozytorium (np. `https://raw.githubusercontent.com/.../cards.json`).
+
+4. Rejestracja gry na tcg-arena.fr:
+   - Wejdź na stronę https://tcg-arena.fr i zaloguj się.
+   - W sekcji profilu lub zarządzania grami wybierz opcję dodania nowej gry (Add new game / Create game).
+   - Platforma poprosi Cię o podanie linku do Twojego pliku gry. Wklej tam adres URL (np. w formie Raw) do Twojego pliku `gamefile.json`.
+
+5. Gotowe!
+   - System TCG Arena pobierze logikę gry z pliku `gamefile.json` oraz załaduje zdefiniowane w nim karty z `cards.json`. Teraz wystarczy stworzyć stół (lobby) i zaprosić do gry znajomego!
