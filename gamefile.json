@@ -1,8 +1,8 @@
 {
-    "name": "Nowa Gra Karciana",
+    "name": "New Card Game",
     "menuBackgroundImage": "",
     "cardRotation": 0,
-    "customHelp": "Wygrywa gracz, który ma jednostki o łącznej sile 10 lub więcej.",
+    "customHelp": "The winner is the player who has units with a total power of 10 or more.",
     "cards": {
         "dataUrl": "cards.json",
         "cardBack": "",
@@ -41,7 +41,7 @@
                     "max": 1
                 },
                 "mulliganCycle": {
-                    "info": "Wymień dowolną liczbę kart.",
+                    "info": "Replace any number of cards.",
                     "steps": [
                         "toBottom",
                         "draw",
@@ -77,7 +77,7 @@
                         "isHidden": "no",
                         "height": "DEFAULT",
                         "alignment": "CENTER",
-                        "displayedTitle": "Jednostki",
+                        "displayedTitle": "Units",
                         "logWhenPlayed": true,
                         "noQuickActions": true
                     },
@@ -85,15 +85,15 @@
                         "isHidden": "no",
                         "height": "DEFAULT",
                         "alignment": "CENTER",
-                        "displayedTitle": "Artefakty",
+                        "displayedTitle": "Artifacts",
                         "logWhenPlayed": true,
                         "noQuickActions": true
                     }
                 },
                 "autoPlayFromHand": {
-                    "Jednostka": "Field",
-                    "Artefakt": "Artifacts",
-                    "Zaklęcie": "Discard"
+                    "Unit": "Field",
+                    "Artifact": "Artifacts",
+                    "Spell": "Discard"
                 }
             }
         }

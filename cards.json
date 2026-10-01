@@ -4,20 +4,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 1"
+                    "en": "Scout"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Dobierz kartę"
+                    "en": "Draw a card."
                 },
                 "cost": 0,
-                "power": 3
+                "power": 3,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 1"
+            "en": "Scout"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -29,20 +32,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 2"
+                    "en": "Assassin"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Zabij dowolną jednostkę"
+                    "en": "Destroy target unit."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 2"
+            "en": "Assassin"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -54,20 +60,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 3"
+                    "en": "Necromancer"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Zagraj jednostkę ze swojego cmentarza"
+                    "en": "Play a unit from your graveyard."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 3"
+            "en": "Necromancer"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -79,20 +88,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 4"
+                    "en": "Time Weaver"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Możesz wykonać jeszcze jedną akcję"
+                    "en": "You may take an additional action."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 4"
+            "en": "Time Weaver"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -104,20 +116,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 5"
+                    "en": "Sacrificial Lamb"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Zabij jedną ze swoich jednostek"
+                    "en": "Destroy one of your units."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 5"
+            "en": "Sacrificial Lamb"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -129,20 +144,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 6"
+                    "en": "Gambler"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Dobierz 3 karty, a następnie odrzuć 3 karty"
+                    "en": "Draw 3 cards, then discard 3 cards."
                 },
                 "cost": 0,
-                "power": 5
+                "power": 5,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 6"
+            "en": "Gambler"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -154,20 +172,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 7"
+                    "en": "Recruiter"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Wróć jedną ze swoich jednostek do ręki i zagraj ją ponownie"
+                    "en": "Return one of your units to your hand and play it again."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 7"
+            "en": "Recruiter"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -179,20 +200,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 8"
+                    "en": "Illusionist"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Dobierz kartę. Jeśli mnie odrzucisz, zamiast tego zagraj mnie bez efektu."
+                    "en": "Draw a card. If you discard me, play me instead without my effect."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 8"
+            "en": "Illusionist"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -204,20 +228,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 9"
+                    "en": "Meteor Strike"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "Odrzuć kartę z ręki i zabij dwie jednostki."
+                    "en": "Discard a card from your hand and destroy two units."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 9"
+            "en": "Meteor Strike"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -229,19 +256,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 10"
+                    "en": "Arcane Intellect"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "Dobierz 2 karty. Jeśli mnie odrzucisz, dobierz kartę."
+                    "en": "Draw 2 cards. If you discard me, draw a card."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 10"
+            "en": "Arcane Intellect"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -252,19 +282,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 11"
+                    "en": "Banner of Courage"
                 },
-                "type": "Artefakt",
+                "type": "Artifact",
                 "text": {
-                    "pl": "Wszystkie twoje jednostki mają +1⚔️"
+                    "en": "All your units get +1 Power."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 11"
+            "en": "Banner of Courage"
         },
-        "type": "Artefakt",
+        "type": "Artifact",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -275,19 +308,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 12"
+                    "en": "Soulstone"
                 },
-                "type": "Artefakt",
+                "type": "Artifact",
                 "text": {
-                    "pl": "Dobierz kartę. Kiedy twoja jednostka zginie, możesz zabić mnie zamiast niej."
+                    "en": "Draw a card. When your unit dies, you may destroy me instead."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 12"
+            "en": "Soulstone"
         },
-        "type": "Artefakt",
+        "type": "Artifact",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -298,19 +334,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 13"
+                    "en": "Mind Flayer"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Zobacz karty z ręki przeciwnika. Wybierz jedną z nich i odrzuć na swój cmentarz."
+                    "en": "Look at the opponent's hand. Choose a card from it and discard it."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 13"
+            "en": "Mind Flayer"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -321,20 +360,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 14"
+                    "en": "Interrogator"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Przeciwnik musi odrzucić kartę."
+                    "en": "The opponent must discard a card."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+5"
+                }
             }
         },
         "name": {
-            "pl": "Karta 14"
+            "en": "Interrogator"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -346,20 +388,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 15"
+                    "en": "Crippling Wave"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "Osłabł wszystkie jednostki przeciwnika o 1."
+                    "en": "Weaken all opponent's units by 1."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 15"
+            "en": "Crippling Wave"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -371,19 +416,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 16"
+                    "en": "Spellcaster"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Zagraj dowolne zaklęcie ze swojej talii."
+                    "en": "Play any spell from your deck."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 16"
+            "en": "Spellcaster"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -394,20 +442,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 17"
+                    "en": "Amulet of Power"
                 },
-                "type": "Artefakt",
+                "type": "Artifact",
                 "text": {
-                    "pl": "Za każdym razem, gdy zagrasz zaklęcie, wzmocnij jedną ze swoich jednostek."
+                    "en": "Whenever you play a spell, strengthen one of your units."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 17"
+            "en": "Amulet of Power"
         },
-        "type": "Artefakt",
+        "type": "Artifact",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -419,19 +470,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 18"
+                    "en": "Blessing"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "Rozdaj dowolnie 3 wzmocnienia."
+                    "en": "Distribute 3 strengthen effects as you choose."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 18"
+            "en": "Blessing"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -442,19 +496,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 19"
+                    "en": "Inspiring Roar"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "Wzmocnij wszystkie swoje jednostki."
+                    "en": "Strengthen all your units."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 19"
+            "en": "Inspiring Roar"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -465,19 +522,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 20"
+                    "en": "Discarder"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "odrzuć kartę z ręki."
+                    "en": "Discard a card from your hand."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 20"
+            "en": "Discarder"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -488,20 +548,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 21"
+                    "en": "Behemoth"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": ""
+                    "en": ""
                 },
                 "cost": 0,
-                "power": 4
+                "power": 4,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 21"
+            "en": "Behemoth"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -513,19 +576,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 22"
+                    "en": "Mirror Strike"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "zadaj jednostką przeciwnika tyle obrażeń, ile wynosi siła twojej najsilniejszej jednostki."
+                    "en": "Deal damage to an opponent's unit equal to the power of your strongest unit."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 22"
+            "en": "Mirror Strike"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -536,19 +602,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 23"
+                    "en": "Curse Weaver"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "rozdaj dowolnie 3 osłabienia."
+                    "en": "Distribute 3 weaken effects as you choose."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 23"
+            "en": "Curse Weaver"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -559,20 +628,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 24"
+                    "en": "Kamikaze"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "zabij jednostkę swoją i przeciwnika."
+                    "en": "Destroy your unit and an opponent's unit."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 24"
+            "en": "Kamikaze"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -584,20 +656,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 25"
+                    "en": "Martyr"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Kiedy zginę, dobierz kartę i wykonaj dodatkową akcję."
+                    "en": "When I die, draw a card and take an additional action."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 25"
+            "en": "Martyr"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -609,20 +684,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 26"
+                    "en": "Grave Digger"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "usuń dowolną liczbę kart ze swojego cmentarza i wzmocnij mnie za każdą z nich."
+                    "en": "Remove any number of cards from your graveyard and strengthen me for each of them."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+5"
+                }
             }
         },
         "name": {
-            "pl": "Karta 26"
+            "en": "Grave Digger"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -634,20 +712,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 27"
+                    "en": "Mana Addict"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Kiedy zagrasz zaklęcie, wzmocnij mnie."
+                    "en": "When you play a spell, strengthen me."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 27"
+            "en": "Mana Addict"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -659,20 +740,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 28"
+                    "en": "Relic Hunter"
                 },
-                "type": "Artefakt",
+                "type": "Artifact",
                 "text": {
-                    "pl": "Wzmocnij mnie za każdy artefakt, jaki posiadasz. Kiedy zagrasz artefakt, wzmocnij mnie."
+                    "en": "Strengthen me for each artifact you control. When you play an artifact, strengthen me."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 28"
+            "en": "Relic Hunter"
         },
-        "type": "Artefakt",
+        "type": "Artifact",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -684,20 +768,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 29"
+                    "en": "Bloodthirsty Warrior"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Kiedy zabijesz jednostkę przeciwnika, wzmocnij mnie."
+                    "en": "When you destroy an opponent's unit, strengthen me."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 29"
+            "en": "Bloodthirsty Warrior"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -709,20 +796,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 30"
+                    "en": "Hexer"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "wybierz jednostkę i osłab ją. Możesz odrzucić dowolną liczbę kart z ręki żaby osłabić ją jeszcze raz za każdą z nich kartę."
+                    "en": "Choose a unit and weaken it. You may discard any number of cards from your hand to weaken it again for each card discarded."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 30"
+            "en": "Hexer"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -734,20 +824,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 31"
+                    "en": "Divine Shield"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "nie mogę zostać zniszczony, ani osłabiony."
+                    "en": "I cannot be destroyed or weakened."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 31"
+            "en": "Divine Shield"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -759,19 +852,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 32"
+                    "en": "Execute"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "zabij wszystkie jednostki przeciwnika, które są osłabione."
+                    "en": "Destroy all weakened opponent units."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 32"
+            "en": "Execute"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -782,19 +878,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 33"
+                    "en": "Cleanse"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "Usuń wszystkie osłabienia ze swoich jednostek."
+                    "en": "Remove all weaken effects from your units."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 33"
+            "en": "Cleanse"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -805,19 +904,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 34"
+                    "en": "Transmutation"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "osłabł jednostkę, ulepsz jednostek i dobierz kartę"
+                    "en": "Weaken a unit, upgrade a unit, and draw a card."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 34"
+            "en": "Transmutation"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -828,19 +930,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 35"
+                    "en": "Exhaustion"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "Osłabł jednostkę. Wykonaj jeszcze jedną akcję."
+                    "en": "Weaken a unit. Take an additional action."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+5"
+                }
             }
         },
         "name": {
-            "pl": "Karta 35"
+            "en": "Exhaustion"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -851,19 +956,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 36"
+                    "en": "Torturer"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Osłabł jedną jednostkę 4 razy."
+                    "en": "Weaken one unit 4 times."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+4"
+                }
             }
         },
         "name": {
-            "pl": "Karta 36"
+            "en": "Torturer"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -874,20 +982,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 37"
+                    "en": "Thief"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "odrzuć kartę z ręki. Przeciwnik odrzuca losową kartę z ręki."
+                    "en": "Discard a card from your hand. The opponent discards a random card from their hand."
                 },
                 "cost": 0,
-                "power": 2
+                "power": 2,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+3"
+                }
             }
         },
         "name": {
-            "pl": "Karta 37"
+            "en": "Thief"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -899,20 +1010,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 38"
+                    "en": "Shatter"
                 },
-                "type": "Artefakt",
+                "type": "Artifact",
                 "text": {
-                    "pl": "zniszcz artefakt przeciwnika"
+                    "en": "Destroy an opponent's artifact."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 38"
+            "en": "Shatter"
         },
-        "type": "Artefakt",
+        "type": "Artifact",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -924,19 +1038,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 39"
+                    "en": "Forge of Power"
                 },
-                "type": "Artefakt",
+                "type": "Artifact",
                 "text": {
-                    "pl": "Dobierz kartę. Odrzuć kartę i wyczerp mnie, aby wzmocnić jednostkę."
+                    "en": "Draw a card. Discard a card and exhaust me to strengthen a unit."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+5"
+                }
             }
         },
         "name": {
-            "pl": "Karta 39"
+            "en": "Forge of Power"
         },
-        "type": "Artefakt",
+        "type": "Artifact",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -947,19 +1064,22 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 40"
+                    "en": "Shrine of Weakness"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Dobierz kartę. Odrzuć kartę i wyczerp mnie, aby osłabić jednostkę."
+                    "en": "Draw a card. Discard a card and exhaust me to weaken a unit."
                 },
-                "cost": 0
+                "cost": 0,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 40"
+            "en": "Shrine of Weakness"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -970,20 +1090,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 41"
+                    "en": "Mind Swap"
                 },
-                "type": "Zaklęcie",
+                "type": "Spell",
                 "text": {
-                    "pl": "zabierz wszystkie karty przeciwnika, a następnie oddaj mu tyle samo dowolnych kart."
+                    "en": "Take all of the opponent's cards, then give them the same number of any cards."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+2"
+                }
             }
         },
         "name": {
-            "pl": "Karta 41"
+            "en": "Mind Swap"
         },
-        "type": "Zaklęcie",
+        "type": "Spell",
         "cost": 0,
         "_legal": {
             "STD": true
@@ -995,20 +1118,23 @@
         "face": {
             "front": {
                 "name": {
-                    "pl": "Karta 42"
+                    "en": "Bouncer"
                 },
-                "type": "Jednostka",
+                "type": "Unit",
                 "text": {
-                    "pl": "Wróć do ręki jednostkę swoją i przeciwnika."
+                    "en": "Return your unit and an opponent's unit to hand."
                 },
                 "cost": 0,
-                "power": 1
+                "power": 1,
+                "image": {
+                    "en": "https://placehold.co/400x600/png?text=Art+1"
+                }
             }
         },
         "name": {
-            "pl": "Karta 42"
+            "en": "Bouncer"
         },
-        "type": "Jednostka",
+        "type": "Unit",
         "cost": 0,
         "_legal": {
             "STD": true
