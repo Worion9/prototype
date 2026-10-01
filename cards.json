@@ -1,0 +1,1018 @@
+{
+    "card-1": {
+        "id": "card-1",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 1"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Dobierz kartę"
+                },
+                "cost": 0,
+                "power": 3
+            }
+        },
+        "name": {
+            "pl": "Karta 1"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 3
+    },
+    "card-2": {
+        "id": "card-2",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 2"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Zabij dowolną jednostkę"
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 2"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-3": {
+        "id": "card-3",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 3"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Zagraj jednostkę ze swojego cmentarza"
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 3"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-4": {
+        "id": "card-4",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 4"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Możesz wykonać jeszcze jedną akcję"
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 4"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-5": {
+        "id": "card-5",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 5"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Zabij jedną ze swoich jednostek"
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 5"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-6": {
+        "id": "card-6",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 6"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Dobierz 3 karty, a następnie odrzuć 3 karty"
+                },
+                "cost": 0,
+                "power": 5
+            }
+        },
+        "name": {
+            "pl": "Karta 6"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 5
+    },
+    "card-7": {
+        "id": "card-7",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 7"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Wróć jedną ze swoich jednostek do ręki i zagraj ją ponownie"
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 7"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-8": {
+        "id": "card-8",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 8"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Dobierz kartę. Jeśli mnie odrzucisz, zamiast tego zagraj mnie bez efektu."
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 8"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-9": {
+        "id": "card-9",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 9"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "Odrzuć kartę z ręki i zabij dwie jednostki."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 9"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-10": {
+        "id": "card-10",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 10"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "Dobierz 2 karty. Jeśli mnie odrzucisz, dobierz kartę."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 10"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-11": {
+        "id": "card-11",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 11"
+                },
+                "type": "Artefakt",
+                "text": {
+                    "pl": "Wszystkie twoje jednostki mają +1⚔️"
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 11"
+        },
+        "type": "Artefakt",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-12": {
+        "id": "card-12",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 12"
+                },
+                "type": "Artefakt",
+                "text": {
+                    "pl": "Dobierz kartę. Kiedy twoja jednostka zginie, możesz zabić mnie zamiast niej."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 12"
+        },
+        "type": "Artefakt",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-13": {
+        "id": "card-13",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 13"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Zobacz karty z ręki przeciwnika. Wybierz jedną z nich i odrzuć na swój cmentarz."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 13"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-14": {
+        "id": "card-14",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 14"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Przeciwnik musi odrzucić kartę."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 14"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-15": {
+        "id": "card-15",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 15"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "Osłabł wszystkie jednostki przeciwnika o 1."
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 15"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-16": {
+        "id": "card-16",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 16"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Zagraj dowolne zaklęcie ze swojej talii."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 16"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-17": {
+        "id": "card-17",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 17"
+                },
+                "type": "Artefakt",
+                "text": {
+                    "pl": "Za każdym razem, gdy zagrasz zaklęcie, wzmocnij jedną ze swoich jednostek."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 17"
+        },
+        "type": "Artefakt",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-18": {
+        "id": "card-18",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 18"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "Rozdaj dowolnie 3 wzmocnienia."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 18"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-19": {
+        "id": "card-19",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 19"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "Wzmocnij wszystkie swoje jednostki."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 19"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-20": {
+        "id": "card-20",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 20"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "odrzuć kartę z ręki."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 20"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-21": {
+        "id": "card-21",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 21"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": ""
+                },
+                "cost": 0,
+                "power": 4
+            }
+        },
+        "name": {
+            "pl": "Karta 21"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 4
+    },
+    "card-22": {
+        "id": "card-22",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 22"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "zadaj jednostką przeciwnika tyle obrażeń, ile wynosi siła twojej najsilniejszej jednostki."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 22"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-23": {
+        "id": "card-23",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 23"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "rozdaj dowolnie 3 osłabienia."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 23"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-24": {
+        "id": "card-24",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 24"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "zabij jednostkę swoją i przeciwnika."
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 24"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-25": {
+        "id": "card-25",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 25"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Kiedy zginę, dobierz kartę i wykonaj dodatkową akcję."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 25"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-26": {
+        "id": "card-26",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 26"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "usuń dowolną liczbę kart ze swojego cmentarza i wzmocnij mnie za każdą z nich."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 26"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-27": {
+        "id": "card-27",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 27"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Kiedy zagrasz zaklęcie, wzmocnij mnie."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 27"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-28": {
+        "id": "card-28",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 28"
+                },
+                "type": "Artefakt",
+                "text": {
+                    "pl": "Wzmocnij mnie za każdy artefakt, jaki posiadasz. Kiedy zagrasz artefakt, wzmocnij mnie."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 28"
+        },
+        "type": "Artefakt",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-29": {
+        "id": "card-29",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 29"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Kiedy zabijesz jednostkę przeciwnika, wzmocnij mnie."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 29"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-30": {
+        "id": "card-30",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 30"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "wybierz jednostkę i osłab ją. Możesz odrzucić dowolną liczbę kart z ręki żaby osłabić ją jeszcze raz za każdą z nich kartę."
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 30"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-31": {
+        "id": "card-31",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 31"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "nie mogę zostać zniszczony, ani osłabiony."
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 31"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-32": {
+        "id": "card-32",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 32"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "zabij wszystkie jednostki przeciwnika, które są osłabione."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 32"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-33": {
+        "id": "card-33",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 33"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "Usuń wszystkie osłabienia ze swoich jednostek."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 33"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-34": {
+        "id": "card-34",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 34"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "osłabł jednostkę, ulepsz jednostek i dobierz kartę"
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 34"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-35": {
+        "id": "card-35",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 35"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "Osłabł jednostkę. Wykonaj jeszcze jedną akcję."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 35"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-36": {
+        "id": "card-36",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 36"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Osłabł jedną jednostkę 4 razy."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 36"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-37": {
+        "id": "card-37",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 37"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "odrzuć kartę z ręki. Przeciwnik odrzuca losową kartę z ręki."
+                },
+                "cost": 0,
+                "power": 2
+            }
+        },
+        "name": {
+            "pl": "Karta 37"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 2
+    },
+    "card-38": {
+        "id": "card-38",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 38"
+                },
+                "type": "Artefakt",
+                "text": {
+                    "pl": "zniszcz artefakt przeciwnika"
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 38"
+        },
+        "type": "Artefakt",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-39": {
+        "id": "card-39",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 39"
+                },
+                "type": "Artefakt",
+                "text": {
+                    "pl": "Dobierz kartę. Odrzuć kartę i wyczerp mnie, aby wzmocnić jednostkę."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 39"
+        },
+        "type": "Artefakt",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-40": {
+        "id": "card-40",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 40"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Dobierz kartę. Odrzuć kartę i wyczerp mnie, aby osłabić jednostkę."
+                },
+                "cost": 0
+            }
+        },
+        "name": {
+            "pl": "Karta 40"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        }
+    },
+    "card-41": {
+        "id": "card-41",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 41"
+                },
+                "type": "Zaklęcie",
+                "text": {
+                    "pl": "zabierz wszystkie karty przeciwnika, a następnie oddaj mu tyle samo dowolnych kart."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 41"
+        },
+        "type": "Zaklęcie",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    },
+    "card-42": {
+        "id": "card-42",
+        "face": {
+            "front": {
+                "name": {
+                    "pl": "Karta 42"
+                },
+                "type": "Jednostka",
+                "text": {
+                    "pl": "Wróć do ręki jednostkę swoją i przeciwnika."
+                },
+                "cost": 0,
+                "power": 1
+            }
+        },
+        "name": {
+            "pl": "Karta 42"
+        },
+        "type": "Jednostka",
+        "cost": 0,
+        "_legal": {
+            "STD": true
+        },
+        "power": 1
+    }
+}

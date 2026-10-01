@@ -1,0 +1,101 @@
+{
+    "name": "Nowa Gra Karciana",
+    "menuBackgroundImage": "",
+    "cardRotation": 0,
+    "customHelp": "Wygrywa gracz, który ma jednostki o łącznej sile 10 lub więcej.",
+    "cards": {
+        "dataUrl": "cards.json",
+        "cardBack": "",
+        "version": 1
+    },
+    "deckBuilding": {
+        "mainFilters": [
+            "type"
+        ],
+        "formats": [
+            {
+                "title": "Standard",
+                "legalityCode": "STD",
+                "gameplay": "Standard",
+                "deckRulesets": "Standard"
+            }
+        ],
+        "deckRulesets": {
+            "Standard": {
+                "checkCardLegality": true,
+                "general": {
+                    "min": 50,
+                    "max": 50,
+                    "maxPerCard": 4
+                }
+            }
+        }
+    },
+    "gameplay": {
+        "Standard": {
+            "countersStartingValues": [],
+            "mulligan": {
+                "startingHandSize": 5,
+                "triggeredByButton": false,
+                "mulliganCount": {
+                    "max": 1
+                },
+                "mulliganCycle": {
+                    "info": "Wymień dowolną liczbę kart.",
+                    "steps": [
+                        "toBottom",
+                        "draw",
+                        "shuffle"
+                    ],
+                    "selectionRange": {
+                        "min": 0,
+                        "max": 5
+                    }
+                }
+            },
+            "newTurn": {
+                "drawOnStart": false,
+                "drawPerTurn": 1
+            },
+            "beforeGameStart": {
+                "chooseAnotherStartingPlayer": true
+            },
+            "sections": {
+                "layout": {
+                    "direction": "column",
+                    "content": [
+                        {
+                            "section": "Field"
+                        },
+                        {
+                            "section": "Artifacts"
+                        }
+                    ]
+                },
+                "sectionsDict": {
+                    "Field": {
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "displayedTitle": "Jednostki",
+                        "logWhenPlayed": true,
+                        "noQuickActions": true
+                    },
+                    "Artifacts": {
+                        "isHidden": "no",
+                        "height": "DEFAULT",
+                        "alignment": "CENTER",
+                        "displayedTitle": "Artefakty",
+                        "logWhenPlayed": true,
+                        "noQuickActions": true
+                    }
+                },
+                "autoPlayFromHand": {
+                    "Jednostka": "Field",
+                    "Artefakt": "Artifacts",
+                    "Zaklęcie": "Discard"
+                }
+            }
+        }
+    }
+}
